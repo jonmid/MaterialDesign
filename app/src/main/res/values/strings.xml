@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="str_nom">Nombre</string>
+    <string name="str_tel">Teléfono</string>
+    <string name="str_email">Correo</string>
+    <string name="str_btn">ACEPTAR</string>
+</resources>
